@@ -57,3 +57,6 @@ nav a:not(.btn):hover{color:var(--gold)}
  nav{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;background:#fff;padding:16px;box-shadow:0 6px 8px #0002}
  nav.open{display:flex}
 }
+.creds{list-style:none;margin:8px 0 0;padding:0;font-size:.9rem;color:var(--purple)}
+.creds li{padding:2px 0}
+.cofounder figcaption{max-width:240px}
